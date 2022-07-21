@@ -3,7 +3,7 @@
 <hr />
 
 ## About Me
-
+"Programming is a skill best acquired by practice and example rather than from books" - Alan Turing. I fell in love with the problem-solving aspect of computer science in High school after taking ap comp sci, and have spent the years since then learning new skills in both a college setting and a 1000+ hour SWE boot camp. Thank you for visiting my GitHub, on here you'll have access to see fun projects I'm currently working on! Feel free to reach out to my email above with any questions or concerns.
 
 <hr />
 
